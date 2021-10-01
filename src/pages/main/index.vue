@@ -167,7 +167,7 @@ export default {
            this.createDefaultData();
          }
        });
-       },
+     },
      createDefaultData(){
        let mentorias=[{
          id:1,
