@@ -167,7 +167,7 @@ export default {
            this.createDefaultData();
          }
        });
-     },
+       },
      createDefaultData(){
        let mentorias=[{
          id:1,
@@ -197,7 +197,7 @@ export default {
          },
          {
            id:3,
-           nombre:"Eficiencia energetica para Pymes",
+           nombre:"Oportunidades de sostenibilidad en la cadena de valor",
            fecha:'2021-10-26',
            sesiones:[
              {id:1,horario_in:'15:00',horario_fn:'15:15',asistente:[]},
